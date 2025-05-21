@@ -1,0 +1,10 @@
+torch
+transformers
+evaluate
+datasets
+gradio
+tqdm
+requests
+beautifulsoup4
+pandas
+numpy
